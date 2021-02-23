@@ -1,6 +1,6 @@
 # AI-in-Physics-tutorial-STEM
 
-튜토리얼에서 사용한 구글 코랩 코드와 실행 결과 output들은 .ipynb 파일에 있습니다. 
+튜토리얼에서 사용한 구글 코랩 코드와 실행 결과 output들은 Final_AI_in_Physics_ML_STEM_Defect.ipynb 파일에 있습니다. 
 클릭하신 후, 위에 있는 "Open in Colaboratory" 버튼을 클릭하면 코랩으로 열 수 있습니다.
 
 학습과 테스트에 필요한 이미지들은 연세대 계정으로 액세스 가능한 공유 구글 드라이브에 있습니다.
