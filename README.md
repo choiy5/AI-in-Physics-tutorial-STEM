@@ -4,6 +4,7 @@
 클릭하신 후, 위에 있는 "Open in Colaboratory" 버튼을 클릭하면 코랩으로 열 수 있습니다.
 
 학습과 테스트에 필요한 이미지들은 연세대 계정으로 액세스 가능한 공유 구글 드라이브에 있습니다.
+현재는 액세스 권한이 모두에게 있지만, 오늘 워크샵이 끝난 후에는 연세대 계정으로만 액세스 할 수 있도록 바꿀 예정입니다.
 https://drive.google.com/drive/folders/1cwxcdTsuRG4L-pYLG1F_PCb4dSV94pA4?usp=sharing
 
 
